@@ -9,3 +9,7 @@ En nuestro sitio web oficial:
 
 O en esta página en la sección de "releases":
 > https://github.com/Softnya-Soporte/Anime-Play-App-Oficial/releases
+
+Si quieres ver el historial de cambios en las versiones, ingresa a esta sección:
+
+> [CHANGELOG.md](CHANGELOG.md)
