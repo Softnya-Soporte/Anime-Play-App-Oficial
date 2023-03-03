@@ -1,5 +1,12 @@
 # Historial de cambios en las versiones de Anime Play:
 
+#### v.1.6.6
+
+* Agregada sección de "Acerca de la app".
+* Agregada sección de "Políticas de privacidad".
+* Agregada sección de "Soporte".
+* Manejo de rastreo de contenido de páginas de manera segura y encriptada.
+
 #### v.1.6.5
 
 * Agrega resaltado de palabras de búsqueda dentro de los resultados.
