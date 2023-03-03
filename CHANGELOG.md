@@ -1,10 +1,89 @@
 # Historial de cambios en las versiones de Anime Play:
 
+#### v.1.6.5
+
+* Agrega resaltado de palabras de búsqueda dentro de los resultados.
+* Agregada configuración de búsqueda para poder especificar: máximo de búsquedas almacenadas en local y comportamiento de campo de búsqueda.
+
+#### v. 1.6.4
+
+* Agregar una imagen del primer resultado de búsqueda y guardarlo en el historial.
+* En el listado de búsquedas recientes agregar la imagen capturada.
+* Corregir bug, si no arroja datos la búsqueda no es necesario guardar ese historial.
+
+#### v. 1.6.3
+
+* Guardar historial de búsquedas de manera local.
+* Cuando no hay una búsqueda activa, mostrar el historial de búsquedas en una tabla. Esta se puede dar click para volver a buscar.
+
+#### v. 1.6.2
+
+* En vista sin búsqueda agregar géneros y estudios como vista previa.
+* En vista sin búsqueda agregar mensaje para escribir en el input superior.
+
+#### v. 1.6.1
+
+* Agregada sección de búsqueda.
+* Búsqueda por relevancia.
+* Ajuste de niveles de relevancia por colores.
+
+#### v. 1.5.2
+
+* Correcciones de bugs de manejo de comentarios.
+* Agregado al menú general la página "changelog" donde se mostrará este listado de cambios.
+
+#### v. 1.5.1
+
+* Agregada sección de comentarios en vista detallada.
+* En vista previa de comentarios se ve el más reciente.
+* Se muestra un popup con todos los comentarios del anime y especifica el capítulo en el que se comentó.
+* Sólo usuarios registrados pueden dejar comentarios, si no hay sesión iniciada se pide.
+
+#### v. 1.4.2
+
+* Corrección de bugs de caché.
+* Ajuste visual de listado de perfil de usuario.
+* 
+
+#### v. 1.4.1
+
+* Se incorpora el historial de navegación en la app (local).
+* Agregado en configuración una opción para establecer el límite de historial a guardar.
+
+#### v. 1.3.3
+
+* Actualización de librerías a las versiones más recientes.
+* Abrir compartir en redes sociales dentro de su respectiva app si se encuentran instaladas. Esto en lugar de abrirlo en el navegador predeterminado.
+
+#### v. 1.3.2
+
+* Incorporación de Softnya Ads.
+* Agregados links en los géneros del contenido.
+* Agregados link en el listado de estudios del contenido.
+* Compartir en redes sociales todo el contenido.
+
+#### v. 1.3.1
+
+* Agregadas secciones de recomendados y relacionados en los capítulos.
+* Incorporación de AdMob.
+
+#### v. 1.2.7
+
+* Optimización de rendimiento de lista de episodios.
+* Ajustes en manejo de caché.
+* Agregado el trailer del contenido si existe.
+
+#### v. 1.2.6
+
+* Corrección de algunos bugs.
+* Mejora de experiencia en navegación de episodios y registro de vistos.
+* Optimización de carga de contenido en tablas generales, mejora la velocidad de carga de contenido en caché.
+
 #### v. 1.2.5
 
 * Listado de animes populares con posicionamiento.
 * En listados generales mostrar la posición del top.
-* En la vista de detalles mostrar si está dentro del top
+* En la vista de detalles mostrar si está dentro del top.
 
 #### v. 1.2.4
 
