@@ -1,5 +1,23 @@
 # Historial de cambios en las versiones de Anime Play:
 
+#### v.1.7.3
+
+* Nuevo botón de "seguir" dentro del área de contenidos.
+* Manejo de errores en vista de detalles si la conexión falla.
+* Corrección de algunos bugs en el área de búsqueda.
+* Actualización de datos en caché cuando existen cambios de configuración de usuarios.
+
+#### v.1.7.2
+
+* Corrección de bugs menores.
+* Al dar click en "seguir" en cualquier contenido, se actualiza el contenido local para mostrar las listas con las actualizaciones.
+* Si falla la conexión a Internet, se regresará el status de "seguir" al que estaba y no se modifica el contenido local.
+
+#### v.1.7.1
+
+* Nuevo botón para seguir un anime.
+* Al darle "seguir" se mostrará en la sección "Nuevo para ti".
+
 #### v.1.6.6
 
 * Agregada sección de "Acerca de la app".
