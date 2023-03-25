@@ -1,5 +1,19 @@
 # Historial de cambios en las versiones de Anime Play:
 
+#### v.1.7.5
+
+* Agregada vista de personajes en la lista de detalles del anime.
+* Agregada sección detallada de personajes al dar click en cada imagen de personaje.
+* Posibilidad de ver el historial de personajes vistos desde "Mi historial" en perfil.
+
+#### v.1.7.4
+
+* Agregada sección de restablecimiento de contraseña en ventana de login.
+* Envía un correo con link de restablecimiento directamente en la web.
+* Mejora de búsqueda para que se pueda encontrar resultados en español, inglés y/o japonés.
+* Agregado ajuste de título principal por idioma: español, inglés o romanji.
+* Se muestra la traducción principal seleccionada en todo el contenido. Si es diferente a romanji, se pasa como título secundario.
+
 #### v.1.7.3
 
 * Nuevo botón de "seguir" dentro del área de contenidos.
