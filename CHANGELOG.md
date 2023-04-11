@@ -1,9 +1,16 @@
 # Historial de cambios en las versiones de Anime Play:
 
+#### v.1.7.6
+
+* Agregado historial en Google Analytics con fines de mejoras para la app.
+* Verifica actualizaciones disponibles y muestra opciones de descarga.
+
 #### v.1.7.5
 
 * Agregada vista de personajes en la lista de detalles del anime.
 * Agregada sección detallada de personajes al dar click en cada imagen de personaje.
+* Agregada vista de actores en la lista de detalles del anime.
+* Agregada sección detallada de actores con su lista de personajes que ha dado voz.
 * Posibilidad de ver el historial de personajes vistos desde "Mi historial" en perfil.
 
 #### v.1.7.4
