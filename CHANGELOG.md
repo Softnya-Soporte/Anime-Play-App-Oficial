@@ -1,5 +1,29 @@
 # Historial de cambios en las versiones de Anime Play:
 
+#### v.1.7.9
+
+* Ajustes básicos para poder ver la app en web mediante www.animeplay.app
+* Visualizar precarga en lista de búsquedas e historial de visitas.
+* Posibilidad de ocultar publicidad mostrando un video.
+* Agregada sección de descargas de contenido.
+* Mostrar "visto" en películas igual que en series.
+* Agregada sección de noticias.
+* Agregada liga social en anime y noticias para compartir.
+
+#### v.1.7.8
+
+* Agregada pantalla de error cuando algo falla en la conexión al servidor.
+* Posibilidad de enviar a los desarrolladores un reporte del error ocurrido, sólo con 1 click.
+* Corrección de actualización de vista en cambio de género en el listado.
+* Actualizamos nuestro aviso de privacidad donde se especifica la solicitud de datos (20 de abril de 2023).
+* Incorporar opciones para compartir y valorar la aplicación con Play Store.
+
+#### v.1.7.7
+
+* Corrección de algunos bugs de contenido.
+* Verifica que las imágenes del contenido estén correctas. Si no, se actualiza desde el servidor.
+* Corrección de bugs en el actualizador de aplicación.
+
 #### v.1.7.6
 
 * Agregado historial en Google Analytics con fines de mejoras para la app.
